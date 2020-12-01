@@ -1,2 +1,4 @@
 # My-introduction-to-ML
-This is what will contain some of my code written while learning the basics of machine learning
+Currently reading *Introduction to Machine Learning with Python* by *Andreas C.Müller & Sarah Guido*,
+and this will be the repository where I will put all of my code written while reading this book.
+
